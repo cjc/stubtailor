@@ -1,0 +1,9 @@
+{ 
+  "name" : "stubtailor",
+  "version" : "0.0.1",
+  "description" : "A stubbing/testing server",
+  "dependencies" : 
+  {
+    "express":"*"
+  }
+}
