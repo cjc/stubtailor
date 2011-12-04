@@ -1,9 +1,15 @@
 { 
   "name" : "stubtailor",
   "version" : "0.0.1",
+  "private" : true,
   "description" : "A stubbing/testing server",
   "dependencies" : 
   {
-    "express":"*"
+    "express":"*",
+    "ejs":"*",
+    "smtp-protocol":"*",
+    "morestreams":"*",
+    "connect":"*",
+    "dateformat":"*"
   }
 }
